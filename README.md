@@ -10,9 +10,9 @@
     <p>This website is hosted using GitHub Pages. I'm learning as I go and will add more features soon.</p>
     <p>Follow me on:</p>
     <ul>
-        <li><a href="https://twitter.com/yourusername" target="_blank">Twitter</a></li>
-        <li><a href="https://instagram.com/yourusername" target="_blank">Instagram</a></li>
-        <li><a href="https://facebook.com/yourusername" target="_blank">Facebook</a></li>
+        <li><a href="https://twitter.com/AhmedRawagPilot" target="_blank">Twitter</a></li>
+        <li><a href="https://instagram.com/ahmedskystories" target="_blank">Instagram</a></li>
+        <li><a href="https://facebook.com/profile.php?id=61574375716055" target="_blank">Facebook</a></li>
     </ul>
 </body>
 </html>
